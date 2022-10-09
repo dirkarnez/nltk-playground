@@ -1,0 +1,3 @@
+[submodule "python-portable"]
+	path = python-portable
+	url = https://github.com/dirkarnez/python-portable.git
